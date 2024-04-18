@@ -1,0 +1,10 @@
+D:\Rider Projects\shooterGame\shooterGame\bin\Debug\shooterGame.exe.config
+D:\Rider Projects\shooterGame\shooterGame\bin\Debug\shooterGame.exe
+D:\Rider Projects\shooterGame\shooterGame\bin\Debug\shooterGame.pdb
+D:\Rider Projects\shooterGame\shooterGame\obj\Debug\shooterGame.csproj.AssemblyReference.cache
+D:\Rider Projects\shooterGame\shooterGame\obj\Debug\shooterGame.Properties.Resources.resources
+D:\Rider Projects\shooterGame\shooterGame\obj\Debug\shooterGame.csproj.GenerateResource.cache
+D:\Rider Projects\shooterGame\shooterGame\obj\Debug\shooterGame.csproj.CoreCompileInputs.cache
+D:\Rider Projects\shooterGame\shooterGame\obj\Debug\shooterGame.exe
+D:\Rider Projects\shooterGame\shooterGame\obj\Debug\shooterGame.pdb
+D:\Rider Projects\shooterGame\shooterGame\obj\Debug\shooterGame.Form1.resources
