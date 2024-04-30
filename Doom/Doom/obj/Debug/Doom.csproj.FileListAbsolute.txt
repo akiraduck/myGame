@@ -1,0 +1,10 @@
+D:\Rider Projects\Doom\Doom\bin\Debug\Doom.exe.config
+D:\Rider Projects\Doom\Doom\bin\Debug\Doom.exe
+D:\Rider Projects\Doom\Doom\bin\Debug\Doom.pdb
+D:\Rider Projects\Doom\Doom\obj\Debug\Doom.csproj.AssemblyReference.cache
+D:\Rider Projects\Doom\Doom\obj\Debug\Doom.Properties.Resources.resources
+D:\Rider Projects\Doom\Doom\obj\Debug\Doom.csproj.GenerateResource.cache
+D:\Rider Projects\Doom\Doom\obj\Debug\Doom.csproj.CoreCompileInputs.cache
+D:\Rider Projects\Doom\Doom\obj\Debug\Doom.exe
+D:\Rider Projects\Doom\Doom\obj\Debug\Doom.pdb
+D:\Rider Projects\Doom\Doom\obj\Debug\Doom.Form1.resources
